@@ -45,7 +45,7 @@ Sou um Cientista de Dados apaixonado por desenvolver soluções inovadoras e cri
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucansdev&layout=compact&langs_count=7&theme=dracula"/>
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario-github&theme=dracula" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucansdev&theme=dracula" alt="GitHub Streak" />
 </p>
 
 ---
