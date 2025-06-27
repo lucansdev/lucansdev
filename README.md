@@ -1,87 +1,58 @@
-# Hi there! 👋 I'm Lucas Andrade
+# 👋 Olá! Eu sou Lucas Andrade
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=34D399&center=true&width=435&lines=Passionate+Data+Scientist;Machine+Learning+Enthusiast;Deep+Learning+Practitioner;Always+Learning+and+Evolving" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Cientista+de+Dados;Entusiasta+de+Machine+Learning+%26+Deep+Learning;Estudando+Reinforcement+Learning;Sempre+aprendendo+e+evoluindo" alt="Typing SVG" /></a>
 </p>
 
-I am a dedicated Data Scientist with a profound love for technology and a strong background in developing and implementing sophisticated machine learning and deep learning architectures. I am constantly seeking new challenges and opportunities for professional growth.
+## 🚀 Sobre Mim
+
+Sou um Cientista de Dados apaixonado por desenvolver soluções inovadoras e criar diversas arquiteturas de Machine Learning e Deep Learning. Estou sempre em busca de novos desafios e projetos para aprimorar minhas habilidades e continuar evoluindo no universo dos dados.
+
+- 🔭 Atualmente estou trabalhando em diversos projetos de Ciência de Dados.
+- 🌱 Meu foco de estudo no momento é **Reinforcement Learning** (Aprendizado por Reforço).
+- 👯 Procuro colaborar em projetos de IA de código aberto e que gerem impacto.
+- 💬 Pergunte-me sobre **Python, TensorFlow, AWS, GCP** ou qualquer outro tópico relacionado a dados!
 
 ---
 
-### About Me
+## 💻 Minhas Ferramentas e Tecnologias
 
-I am on a mission to become a master in the field of Data Science. My journey has equipped me with a solid foundation in Python and its powerful libraries for data analysis, machine learning, and visualization. I am currently delving deep into the fascinating world of Reinforcement Learning.
+### Linguagens & Banco de Dados
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-- 🔭 I’m currently developing various architectures for machine learning and deep learning.
-- 🌱 I’m deeply focused on studying **Reinforcement Learning**.
-- 👯 I’m looking to collaborate on innovative data science projects.
-- 🤔 I'm always open to discussing new ideas and advancements in AI.
-- 💬 Ask me about **Python, TensorFlow, Scikit-learn, or anything related to data!**
-- 📫 How to reach me: **your.email@example.com**
-- ⚡ Fun fact: I believe that behind every dataset, there's a story waiting to be told.
+### Data Science & Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)
 
----
-
-### Tech Stack & Tools
-
-My expertise spans a variety of languages, frameworks, and tools to bring data-driven solutions to life.
-
-**Languages & Databases**
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sql" width="40" height="40"/> </a>
-</p>
-
-**Data Science & Machine Learning**
-<p align="left">
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-  <a href="https://numpy.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/de/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/> </a>
-</p>
-
-**Cloud & DevOps**
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://docs.docker.com/compose/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" alt="docker-compose" width="40" height="40"/> </a>
-</p>
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-### What I'm Working On
-
-I am dedicated to continuous improvement and practical application of my skills.
-
-- [cite_start]**Developing Projects:** Building various projects and developing architectures for machine learning and deep learning. [cite: 4]
-- [cite_start]**Exploring New Frameworks:** Always seeking new challenges and opportunities to grow professionally. [cite: 3]
-- [cite_start]**Contributing to Open Source:** Actively contributing to open-source projects. [cite: 4]
-- **Writing Clean Code:** Focused on writing clean, efficient, and scalable code.
-
----
-
-### Let's Connect
-
-I'm always interested in connecting with other professionals and enthusiasts in the tech and data science community!
-
-<p align="left">
-<a href="https://www.linkedin.com/in/lucas-andrade-nascimentoo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-profile" height="30" width="40" /></a>
-<a href="https://your-portfolio-website.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/domain.png" alt="your-portfolio-website" height="30" width="30" /></a>
-</p>
-
----
-
-### GitHub Stats
+## 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasandrade&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasandrade&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario-github&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario-github&layout=compact&langs_count=7&theme=dracula"/>
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario-github&theme=dracula" alt="GitHub Streak" />
 </p>
 
-<p align="center"> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucasandrade&theme=react-dark&hide_border=true&area=true" />
+---
+
+## 📫 Conecte-se Comigo
+
+<p align="center">
+<a href="https://linkedin.com/in/seu-linkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Seu LinkedIn" height="30" width="40" /></a>
+<a href="mailto:seu-email@exemplo.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Seu Email" height="30" width="40" /></a>
 </p>
