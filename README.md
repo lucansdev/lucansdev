@@ -41,8 +41,8 @@ Sou um Cientista de Dados apaixonado por desenvolver soluções inovadoras e cri
 ## 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario-github&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario-github&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucansdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucansdev&layout=compact&langs_count=7&theme=dracula"/>
 </p>
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario-github&theme=dracula" alt="GitHub Streak" />
@@ -54,5 +54,5 @@ Sou um Cientista de Dados apaixonado por desenvolver soluções inovadoras e cri
 
 <p align="center">
 <a href="https://linkedin.com/in/seu-linkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Seu LinkedIn" height="30" width="40" /></a>
-<a href="mailto:seu-email@exemplo.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Seu Email" height="30" width="40" /></a>
+<a href="mailto:alucad798@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Seu Email" height="30" width="40" /></a>
 </p>
