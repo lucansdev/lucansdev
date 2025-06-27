@@ -41,7 +41,6 @@ I'm a Data Scientist passionate about developing innovative solutions and buildi
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucansdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucansdev&layout=compact&langs_count=7&theme=dracula"/>
 </p>
 <p align="center">
@@ -53,6 +52,6 @@ I'm a Data Scientist passionate about developing innovative solutions and buildi
 ## 📫 Let's Connect
 
 <p align="center">
-<a href="https://linkedin.com/in/your-linkedin-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Your LinkedIn Profile" height="30" width="40" /></a>
-<a href="mailto:your-email@example.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Your Email" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lucas-andrade-nascimentoo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Your LinkedIn Profile" height="30" width="40" /></a>
+<a href="mailto:alucad798@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Your Email" height="30" width="40" /></a>
 </p>
