@@ -1,23 +1,23 @@
-# 👋 Olá! Eu sou Lucas Andrade
+# 👋 Hi there! I'm Lucas Andrade
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Cientista+de+Dados;Entusiasta+de+Machine+Learning+%26+Deep+Learning;Estudando+Reinforcement+Learning;Sempre+aprendendo+e+evoluindo" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Data+Scientist;Machine+Learning+%26+Deep+Learning+Enthusiast;Studying+Reinforcement+Learning;Always+learning+and+evolving" alt="Typing SVG" /></a>
 </p>
 
-## 🚀 Sobre Mim
+## 🚀 About Me
 
-Sou um Cientista de Dados apaixonado por desenvolver soluções inovadoras e criar diversas arquiteturas de Machine Learning e Deep Learning. Estou sempre em busca de novos desafios e projetos para aprimorar minhas habilidades e continuar evoluindo no universo dos dados.
+I'm a Data Scientist passionate about developing innovative solutions and building diverse Machine Learning and Deep Learning architectures. I am always seeking new challenges and projects to enhance my skills and continue evolving in the world of data.
 
-- 🔭 Atualmente estou trabalhando em diversos projetos de Ciência de Dados.
-- 🌱 Meu foco de estudo no momento é **Reinforcement Learning** (Aprendizado por Reforço).
-- 👯 Procuro colaborar em projetos de IA de código aberto e que gerem impacto.
-- 💬 Pergunte-me sobre **Python, TensorFlow, AWS, GCP** ou qualquer outro tópico relacionado a dados!
+- 🔭 I’m currently working on several Data Science projects.
+- 🌱 I’m currently focused on studying **Reinforcement Learning**.
+- 👯 I’m looking to collaborate on impactful and open-source AI projects.
+- 💬 Ask me about **Python, TensorFlow, AWS, GCP,** or any other data-related topic!
 
 ---
 
-## 💻 Minhas Ferramentas e Tecnologias
+## 💻 Tech Stack & Tools
 
-### Linguagens & Banco de Dados
+### Languages & Databases
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -38,7 +38,7 @@ Sou um Cientista de Dados apaixonado por desenvolver soluções inovadoras e cri
 
 ---
 
-## 📈 Estatísticas do GitHub
+## 📈 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucansdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -50,9 +50,9 @@ Sou um Cientista de Dados apaixonado por desenvolver soluções inovadoras e cri
 
 ---
 
-## 📫 Conecte-se Comigo
+## 📫 Let's Connect
 
 <p align="center">
-<a href="https://linkedin.com/in/seu-linkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Seu LinkedIn" height="30" width="40" /></a>
-<a href="mailto:alucad798@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Seu Email" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/your-linkedin-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Your LinkedIn Profile" height="30" width="40" /></a>
+<a href="mailto:your-email@example.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Your Email" height="30" width="40" /></a>
 </p>
